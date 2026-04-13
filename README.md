@@ -14,7 +14,7 @@ Computer Engineering student at **FCT NOVA Lisbon**, passionate about building s
 | Project | Description | Tech |
 |---|---|---|
 | [YouVideo](https://github.com/nik444ds/YouVideo) | Video streaming platform — OOP project | Java |
-| [SmallSocialNetwork](https://github.com/nik444ds/smallSocialNetwork) | Facebook-like social network with friend management | Java |
+| [SmallSocialNetworkConcept](https://github.com/nik444ds/smallSocialNetworkConcept) | Facebook-like social network with friend management | Java |
 | [MathApp](https://github.com/nik444ds/MathApp) | 2D math game with basic operations | Unity / C# |
 
 ##  Beyond code
